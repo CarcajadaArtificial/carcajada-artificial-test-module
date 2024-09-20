@@ -1,6 +1,6 @@
-import setup, { iAtom } from "./setup.ts";
+import setup, { iMolecule } from "./setup.ts";
 
-export default function (props: Partial<iAtom>) {
+export default function (props: Partial<iMolecule>) {
   const { fwd, attribute, children, ...p } = setup(props);
 
   return (

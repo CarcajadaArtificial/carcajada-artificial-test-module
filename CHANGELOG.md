@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.3
+
+- Minor fix on `Molecule` component.
+
 ## v0.0.2
 
 - Added `mod.ts`
