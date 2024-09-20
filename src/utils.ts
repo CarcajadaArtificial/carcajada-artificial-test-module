@@ -1,5 +1,5 @@
 export const utilConstant = "example utility constant";
 
-export function utilFunction(utilParam: string) {
+export function utilFunction(utilParam: string): string {
   return utilParam;
 }

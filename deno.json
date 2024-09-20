@@ -1,6 +1,6 @@
 {
   "name": "@carcajada/carcajada-artificial-test-module",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "exports": "./mod.ts",
   "lock": false,
   "tasks": {

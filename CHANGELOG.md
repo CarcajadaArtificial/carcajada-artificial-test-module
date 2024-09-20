@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.4
+
+- Minor fixes on components and utils.
+
 ## v0.0.3
 
 - Minor fix on `Molecule` component.
