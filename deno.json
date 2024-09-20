@@ -1,4 +1,7 @@
 {
+  "name": "@carcajada/carcajada-artificial-test-module",
+  "version": "0.0.2",
+  "exports": "./mod.ts",
   "lock": false,
   "tasks": {
     "check": "deno fmt --check && deno lint && deno check **/*.ts && deno check **/*.tsx"
