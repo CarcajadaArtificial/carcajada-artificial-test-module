@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.5
+
+- Added the `foo` attribute to the `Atom` component.
+
 ## v0.0.4
 
 - Minor fixes on components and utils.
