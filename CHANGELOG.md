@@ -3,6 +3,7 @@
 ## v0.0.5
 
 - Added the `foo` attribute to the `Atom` component.
+- Added the `bar` attribute to the `Atom` component
 
 ## v0.0.4
 
